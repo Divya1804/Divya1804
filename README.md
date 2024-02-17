@@ -17,11 +17,11 @@
 
 <h3 align="left"><spam style = "border-bottom:2px solid white; padding-bottom:5px">Connect with me : </spam></h3>
 <p align="left">
-<a href="https://twitter.com/075_divya" target="blank"><img align="center" src="https://img.icons8.com/color/48/null/twitter--v1.png" alt="sahil_sapariya" height="40" width="40" /></a>
+<a href="https://twitter.com/075_divya" target="blank"><img align="center" src="https://img.icons8.com/color/48/null/twitter--v1.png" alt="075_divya" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/divya-patel-32512b197" target="blank"><img align="center" src="https://img.icons8.com/color/48/null/linkedin-circled--v1.png" height="40" width="40" /></a>
-<a href="https://instagram.com/patel_divya1804" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/instagram-new.png" alt="_sahil_sapariya_03" height="40" width="40" /></a>
+<a href="https://instagram.com/patel_divya1804" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/instagram-new.png" alt="patel_divya1804" height="40" width="40" /></a>
 <!-- <a href="https://www.youtube.com/channel/UCxiHXMxexflSct4lUD0MaCA" target="blank"><img align="center" src="https://img.icons8.com/color/48/null/youtube-play.png" alt="sahil sapariya" height="40" width="40" /></a> -->
-<a href="https://www.leetcode.com/sahil_sapariya" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="Divya_patel" height="30" width="30" /></a>
+<a href="https://www.leetcode.com/divya_patel" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="Divya_patel" height="30" width="30" /></a>
 
 </p>
 
