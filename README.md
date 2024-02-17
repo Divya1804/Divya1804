@@ -59,6 +59,9 @@
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=divya1804&count_private=true&theme=chartreuse-dark" width="480"></p>
 <p align="center"><img src="https://github-readme-stats-kevintamakuwala.vercel.app/api/top-langs/?username=Divya1804&count_private=true&layout=compact&hide=TSQL&theme=chartreuse-dark" width="480"></p>
 
+Credit: [Divya1804](https://github.com/Divya1804)
+
+Last Updated On: 17/02/2024
 
 <!--
 **Divya1804/Divya1804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
