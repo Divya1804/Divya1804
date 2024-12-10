@@ -59,7 +59,7 @@
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=divya1804&count_private=true&theme=chartreuse-dark" width="480"></p>
 <p align="center"><img src="https://github-readme-stats-kevintamakuwala.vercel.app/api/top-langs/?username=Divya1804&count_private=true&layout=compact&hide=TSQL&theme=chartreuse-dark" width="480"></p>
 
-<p align="center">![Divya1804's Stats](https://github-readme-stats.vercel.app/api?username=Divya1804&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Divya1804&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"></p>
 
 Credit: [Divya1804](https://github.com/Divya1804)
 
