@@ -56,7 +56,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divya1804&" alt="Divya 1804" /></p> -->
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=divya1804&count_private=true&show_icons=true&locale=en&theme=chartreuse-dark" alt="Divya1804" width="480"></p>
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=divya1804&count_private=true&theme=chartreuse-dark" width="480"></p>
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=divya1804&theme=highcontrast" alt="GitHub Streak" width="480"></p>
+<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=divya1804&theme=highcontrast&border_radius=5&short_numbers=true alt="GitHub Streak" /></a> -->
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divya1804&count_private=true&layout=compact&hide=TSQL&theme=chartreuse-dark" width="480"></p>
 
 Credit: [Divya1804](https://github.com/Divya1804)
