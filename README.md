@@ -1,6 +1,6 @@
 <p align="center"><img src="cover-thompson.png"></p>
 <h1 align="center">Hi 👋, I'm Divya Patel</h1>
-<h3 align="center">A Passionate Full-Stack Python Web Developer from India.</h3>
+<h3 align="center">A Passionate Full-Stack Python Web Developer from India</h3>
 
 <p align="center" style = "font-size:20px;"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BDivya1804%7D/count.svg" alt="visitor badge"/></p>
